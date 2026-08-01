@@ -1,0 +1,422 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:UNC-Master-Calendar
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:UTC
+BEGIN:STANDARD
+DTSTART:19700101T000000Z
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:vcal_26876-goheels.com
+DTSTAMP:20260801T151808Z
+DTSTART:20260829T160000Z
+DTEND:20260829T190000Z
+LOCATION:Dublin\, Ireland (Aviva Stadium)
+SUMMARY:🟩 FB UNC vs TCU
+CATEGORIES:UNC-Yellow
+DESCRIPTION:North Carolina Football vs TCU\nTV: ESPN\nTickets: System.Threading.Tasks.Task`1[System.String]\n https://goheels.com/calendar.aspx?game_id=26876&amp;sport_id=3
+URL:https://goheels.com/calendar.aspx?game_id=26876&amp;sport_id=3
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_26877-goheels.com
+DTSTAMP:20260801T151808Z
+DTSTART:20260912T160000Z
+DTEND:20260912T190000Z
+LOCATION:Chapel Hill, Kenan Stadium
+SUMMARY:🟩 FB UNC vs East Tennessee State
+CATEGORIES:UNC-Yellow
+DESCRIPTION:North Carolina Football vs East Tennessee State\nTV: ACC Network\nTickets: System.Threading.Tasks.Task`1[System.String]\n https://goheels.com/calendar.aspx?game_id=26877&amp;sport_id=3
+URL:https://goheels.com/calendar.aspx?game_id=26877&amp;sport_id=3
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_26878-goheels.com
+DTSTAMP:20260801T151808Z
+DTSTART:20260919T160000Z
+DTEND:20260919T190000Z
+LOCATION:Clemson\, S.C. (Memorial Stadium)
+SUMMARY:🟩 FB UNC at Clemson
+CATEGORIES:UNC-Yellow
+DESCRIPTION:North Carolina Football at Clemson\nTV: ESPN\n https://goheels.com/calendar.aspx?game_id=26878&amp;sport_id=3
+URL:https://goheels.com/calendar.aspx?game_id=26878&amp;sport_id=3
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_26884-goheels.com
+DTSTAMP:20260801T151808Z
+DTSTART:20261107T170000Z
+DTEND:20261107T200000Z
+LOCATION:East Hartford\, Conn. (Pratt & Whitney Stadium at Rentschler Field)
+SUMMARY:🟩 FB UNC at UConn
+CATEGORIES:UNC-Yellow
+DESCRIPTION:North Carolina Football at UConn\nTV: CBS Sports Network\n https://goheels.com/calendar.aspx?game_id=26884&amp;sport_id=3
+URL:https://goheels.com/calendar.aspx?game_id=26884&amp;sport_id=3
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_27112-goheels.com
+DTSTAMP:20260801T152446Z
+DTSTART:20261119T230000Z
+DTEND:20261120T010000Z
+LOCATION:Orlando\, Fla.
+SUMMARY:💗 WBB UNC vs Texas Tech
+CATEGORIES:UNC-Yellow
+DESCRIPTION:North Carolina Women's Basketball vs Texas Tech\n https://goheels.com/calendar.aspx?game_id=27112&amp;sport_id=15
+URL:https://goheels.com/calendar.aspx?game_id=27112&amp;sport_id=15
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_27113-goheels.com
+DTSTAMP:20260801T152446Z
+DTSTART:20261121T220000Z
+DTEND:20261122T000000Z
+LOCATION:Orlando\, Fla.
+SUMMARY:💗 WBB UNC vs Alabama
+CATEGORIES:UNC-Yellow
+DESCRIPTION:North Carolina Women's Basketball vs Alabama\n https://goheels.com/calendar.aspx?game_id=27113&amp;sport_id=15
+URL:https://goheels.com/calendar.aspx?game_id=27113&amp;sport_id=15
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_26928-goheels.com
+DTSTAMP:20260801T151808Z
+DTSTART:20261205T170000Z
+DTEND:20261205T200000Z
+LOCATION:Charlotte\, N.C. (Bank of America Stadium)
+SUMMARY:🟩 FB UNC vs ACC Championship
+CATEGORIES:UNC-Yellow
+DESCRIPTION:North Carolina Football vs ACC Championship\n https://goheels.com/calendar.aspx?game_id=26928&amp;sport_id=3
+URL:https://goheels.com/calendar.aspx?game_id=26928&amp;sport_id=3
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_26950-goheels.com
+DTSTAMP:20260801T152042Z
+DTSTART:20261219T193000Z
+DTEND:20261219T213000Z
+LOCATION:New York\, N.Y., Madison Square Garden
+SUMMARY:🩵 MBB UNC vs Kentucky
+CATEGORIES:UNC-Yellow
+DESCRIPTION:North Carolina Men's Basketball  Kentucky\nTV: CBS\n https://goheels.com/calendar.aspx?game_id=26950&amp;sport_id=5
+URL:https://goheels.com/calendar.aspx?game_id=26950&amp;sport_id=5
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_26879-goheels.com
+DTSTAMP:20260801T151808Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+LOCATION:Chapel Hill, Kenan Stadium
+SUMMARY:🟩 FB UNC vs Notre Dame
+CATEGORIES:UNC-Yellow
+DESCRIPTION:North Carolina Football vs Notre Dame\nTickets: System.Threading.Tasks.Task`1[System.String]\n https://goheels.com/calendar.aspx?game_id=26879&amp;sport_id=3
+URL:https://goheels.com/calendar.aspx?game_id=26879&amp;sport_id=3
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_26880-goheels.com
+DTSTAMP:20260801T151808Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+LOCATION:Pittsburgh\, Pa. (Acrisure Stadium)
+SUMMARY:🟩 FB UNC at Pitt
+CATEGORIES:UNC-Yellow
+DESCRIPTION:North Carolina Football at Pitt\n https://goheels.com/calendar.aspx?game_id=26880&amp;sport_id=3
+URL:https://goheels.com/calendar.aspx?game_id=26880&amp;sport_id=3
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_26881-goheels.com
+DTSTAMP:20260801T151808Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+LOCATION:Durham\, N.C. (Brooks Field at Wallace Wade Stadium)
+SUMMARY:🟩 FB UNC at Duke
+CATEGORIES:UNC-Yellow
+DESCRIPTION:North Carolina Football at Duke\n https://goheels.com/calendar.aspx?game_id=26881&amp;sport_id=3
+URL:https://goheels.com/calendar.aspx?game_id=26881&amp;sport_id=3
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_26965-goheels.com
+DTSTAMP:20260801T152042Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+LOCATION:Indianapolis\, Ind., Gainbridge Fieldhouse
+SUMMARY:🩵 MBB UNC vs Indiana (Preseason)
+CATEGORIES:UNC-Yellow
+DESCRIPTION:North Carolina Men's Basketball  Indiana (Preseason)\n https://goheels.com/calendar.aspx?game_id=26965&amp;sport_id=5
+URL:https://goheels.com/calendar.aspx?game_id=26965&amp;sport_id=5
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_26882-goheels.com
+DTSTAMP:20260801T151808Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+LOCATION:Chapel Hill, Kenan Stadium
+SUMMARY:🟩 FB UNC vs Syracuse- Family  Day
+CATEGORIES:UNC-Yellow
+DESCRIPTION:North Carolina Football vs Syracuse- Family Football Day\nTickets: System.Threading.Tasks.Task`1[System.String]\n https://goheels.com/calendar.aspx?game_id=26882&amp;sport_id=3
+URL:https://goheels.com/calendar.aspx?game_id=26882&amp;sport_id=3
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_26883-goheels.com
+DTSTAMP:20260801T151808Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+LOCATION:Chapel Hill, Kenan Stadium
+SUMMARY:🟩 FB UNC vs Miami- Rams Club Day
+CATEGORIES:UNC-Yellow
+DESCRIPTION:North Carolina Football vs Miami- Rams Club Day\nTickets: System.Threading.Tasks.Task`1[System.String]\n https://goheels.com/calendar.aspx?game_id=26883&amp;sport_id=3
+URL:https://goheels.com/calendar.aspx?game_id=26883&amp;sport_id=3
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_27108-goheels.com
+DTSTAMP:20260801T152446Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+LOCATION:Paris\, France
+SUMMARY:💗 WBB UNC vs Oklahoma
+CATEGORIES:UNC-Yellow
+DESCRIPTION:North Carolina Women's Basketball vs Oklahoma\n https://goheels.com/calendar.aspx?game_id=27108&amp;sport_id=15
+URL:https://goheels.com/calendar.aspx?game_id=27108&amp;sport_id=15
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_27109-goheels.com
+DTSTAMP:20260801T152446Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+LOCATION:Charlotte\, N.C.
+SUMMARY:💗 WBB UNC vs South Carolina
+CATEGORIES:UNC-Yellow
+DESCRIPTION:North Carolina Women's Basketball vs South Carolina\n https://goheels.com/calendar.aspx?game_id=27109&amp;sport_id=15
+URL:https://goheels.com/calendar.aspx?game_id=27109&amp;sport_id=15
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_27110-goheels.com
+DTSTAMP:20260801T152446Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+LOCATION:Chapel Hill\, N.C.
+SUMMARY:💗 WBB UNC vs NC Central
+CATEGORIES:UNC-Yellow
+DESCRIPTION:North Carolina Women's Basketball vs NC Central\n https://goheels.com/calendar.aspx?game_id=27110&amp;sport_id=15
+URL:https://goheels.com/calendar.aspx?game_id=27110&amp;sport_id=15
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_26885-goheels.com
+DTSTAMP:20260801T151808Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+LOCATION:Chapel Hill, Kenan Stadium
+SUMMARY:🟩 FB UNC vs Louisville- Homecoming, Military Appreciation and Monogram Day
+CATEGORIES:UNC-Yellow
+DESCRIPTION:North Carolina Football vs Louisville- Homecoming, Military Appreciation and Monogram Day\nTickets: System.Threading.Tasks.Task`1[System.String]\n https://goheels.com/calendar.aspx?game_id=26885&amp;sport_id=3
+URL:https://goheels.com/calendar.aspx?game_id=26885&amp;sport_id=3
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_27111-goheels.com
+DTSTAMP:20260801T152446Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+LOCATION:Philadelphia\, Pa.
+SUMMARY:💗 WBB UNC at Penn
+CATEGORIES:UNC-Yellow
+DESCRIPTION:North Carolina Women's Basketball at Penn\n https://goheels.com/calendar.aspx?game_id=27111&amp;sport_id=15
+URL:https://goheels.com/calendar.aspx?game_id=27111&amp;sport_id=15
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_26991-goheels.com
+DTSTAMP:20260801T152042Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+LOCATION:Chapel Hill, Smith Center
+SUMMARY:🩵 MBB UNC vs Marshall
+CATEGORIES:UNC-Yellow
+DESCRIPTION:North Carolina Men's Basketball  Marshall\n https://goheels.com/calendar.aspx?game_id=26991&amp;sport_id=5
+URL:https://goheels.com/calendar.aspx?game_id=26991&amp;sport_id=5
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_26886-goheels.com
+DTSTAMP:20260801T151808Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+LOCATION:Charlottesville\, Va. (Scott Stadium)
+SUMMARY:🟩 FB UNC at Virginia
+CATEGORIES:UNC-Yellow
+DESCRIPTION:North Carolina Football at Virginia\n https://goheels.com/calendar.aspx?game_id=26886&amp;sport_id=3
+URL:https://goheels.com/calendar.aspx?game_id=26886&amp;sport_id=3
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_27114-goheels.com
+DTSTAMP:20260801T152446Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+LOCATION:Chapel Hill\, N.C.
+SUMMARY:💗 WBB UNC vs Gardner-Webb
+CATEGORIES:UNC-Yellow
+DESCRIPTION:North Carolina Women's Basketball vs Gardner-Webb\n https://goheels.com/calendar.aspx?game_id=27114&amp;sport_id=15
+URL:https://goheels.com/calendar.aspx?game_id=27114&amp;sport_id=15
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_27115-goheels.com
+DTSTAMP:20260801T152446Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+LOCATION:Chapel Hill\, N.C.
+SUMMARY:💗 WBB UNC vs Army
+CATEGORIES:UNC-Yellow
+DESCRIPTION:North Carolina Women's Basketball vs Army\n https://goheels.com/calendar.aspx?game_id=27115&amp;sport_id=15
+URL:https://goheels.com/calendar.aspx?game_id=27115&amp;sport_id=15
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_26887-goheels.com
+DTSTAMP:20260801T151808Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+LOCATION:Chapel Hill, Kenan Stadium
+SUMMARY:🟩 FB UNC vs NC State- Senior Day
+CATEGORIES:UNC-Yellow
+DESCRIPTION:North Carolina Football vs NC State- Senior Day\nTickets: System.Threading.Tasks.Task`1[System.String]\n https://goheels.com/calendar.aspx?game_id=26887&amp;sport_id=3
+URL:https://goheels.com/calendar.aspx?game_id=26887&amp;sport_id=3
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_27116-goheels.com
+DTSTAMP:20260801T152446Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+LOCATION:Chapel Hill\, N.C.
+SUMMARY:💗 WBB UNC vs Brown
+CATEGORIES:UNC-Yellow
+DESCRIPTION:North Carolina Women's Basketball vs Brown\n https://goheels.com/calendar.aspx?game_id=27116&amp;sport_id=15
+URL:https://goheels.com/calendar.aspx?game_id=27116&amp;sport_id=15
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_26958-goheels.com
+DTSTAMP:20260801T152042Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+LOCATION:Chapel Hill, Smith Center
+SUMMARY:🩵 MBB UNC vs Arkansas
+CATEGORIES:UNC-Yellow
+DESCRIPTION:North Carolina Men's Basketball  Arkansas\n https://goheels.com/calendar.aspx?game_id=26958&amp;sport_id=5
+URL:https://goheels.com/calendar.aspx?game_id=26958&amp;sport_id=5
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_27117-goheels.com
+DTSTAMP:20260801T152446Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+LOCATION:Chapel Hill\, N.C.
+SUMMARY:💗 WBB UNC vs LSU
+CATEGORIES:UNC-Yellow
+DESCRIPTION:North Carolina Women's Basketball vs LSU\n https://goheels.com/calendar.aspx?game_id=27117&amp;sport_id=15
+URL:https://goheels.com/calendar.aspx?game_id=27117&amp;sport_id=15
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_26992-goheels.com
+DTSTAMP:20260801T152042Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+LOCATION:Chapel Hill, Smith Center
+SUMMARY:🩵 MBB UNC vs Butler
+CATEGORIES:UNC-Yellow
+DESCRIPTION:North Carolina Men's Basketball  Butler\n https://goheels.com/calendar.aspx?game_id=26992&amp;sport_id=5
+URL:https://goheels.com/calendar.aspx?game_id=26992&amp;sport_id=5
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_27121-goheels.com
+DTSTAMP:20260801T152446Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+LOCATION:Chapel Hill\, N.C.
+SUMMARY:💗 WBB UNC vs Elon
+CATEGORIES:UNC-Yellow
+DESCRIPTION:North Carolina Women's Basketball vs Elon\n https://goheels.com/calendar.aspx?game_id=27121&amp;sport_id=15
+URL:https://goheels.com/calendar.aspx?game_id=27121&amp;sport_id=15
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_27119-goheels.com
+DTSTAMP:20260801T152446Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+LOCATION:Chapel Hill\, N.C.
+SUMMARY:💗 WBB UNC vs Winthrop
+CATEGORIES:UNC-Yellow
+DESCRIPTION:North Carolina Women's Basketball vs Winthrop\n https://goheels.com/calendar.aspx?game_id=27119&amp;sport_id=15
+URL:https://goheels.com/calendar.aspx?game_id=27119&amp;sport_id=15
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_26970-goheels.com
+DTSTAMP:20260801T152042Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+LOCATION:Washington\, DC, Capital One Arena
+SUMMARY:🩵 MBB UNC vs Georgetown
+CATEGORIES:UNC-Yellow
+DESCRIPTION:North Carolina Men's Basketball  Georgetown\n https://goheels.com/calendar.aspx?game_id=26970&amp;sport_id=5
+URL:https://goheels.com/calendar.aspx?game_id=26970&amp;sport_id=5
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_27118-goheels.com
+DTSTAMP:20260801T152446Z
+DTSTART;VALUE=DATE:20261221
+DTEND;VALUE=DATE:20261222
+LOCATION:Chapel Hill\, N.C.
+SUMMARY:💗 WBB UNC vs Norfolk State
+CATEGORIES:UNC-Yellow
+DESCRIPTION:North Carolina Women's Basketball vs Norfolk State\n https://goheels.com/calendar.aspx?game_id=27118&amp;sport_id=15
+URL:https://goheels.com/calendar.aspx?game_id=27118&amp;sport_id=15
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_27120-goheels.com
+DTSTAMP:20260801T152446Z
+DTSTART;VALUE=DATE:20261228
+DTEND;VALUE=DATE:20261229
+LOCATION:Chapel Hill\, N.C.
+SUMMARY:💗 WBB UNC vs UNCW
+CATEGORIES:UNC-Yellow
+DESCRIPTION:North Carolina Women's Basketball vs UNCW\n https://goheels.com/calendar.aspx?game_id=27120&amp;sport_id=15
+URL:https://goheels.com/calendar.aspx?game_id=27120&amp;sport_id=15
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:vcal_26969-goheels.com
+DTSTAMP:20260801T152042Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+LOCATION:Nashville\, Tenn., Bridgestone Arena
+SUMMARY:🩵 MBB UNC vs Illinois
+CATEGORIES:UNC-Yellow
+DESCRIPTION:North Carolina Men's Basketball  Illinois\n https://goheels.com/calendar.aspx?game_id=26969&amp;sport_id=5
+URL:https://goheels.com/calendar.aspx?game_id=26969&amp;sport_id=5
+PRIORITY:3
+END:VEVENT
+END:VCALENDAR
