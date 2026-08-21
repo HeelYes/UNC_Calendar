@@ -13,55 +13,55 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:vcal_26876-goheels.com
-DTSTAMP:20260820T063649Z
+DTSTAMP:20260821T063822Z
 DTSTART:20260829T160000Z
 DTEND:20260829T190000Z
 LOCATION:Dublin\, Ireland (Aviva Stadium)
 SUMMARY:🟩 FB UNC vs TCU
 CATEGORIES:UNC-Yellow
-DESCRIPTION:North Carolina Football vs TCU\nTV: ESPN\nTickets: System.Threading.Tasks.Task`1[System.String]\n https://goheels.com/calendar.aspx?game_id=26876&amp;sport_id=3
+DESCRIPTION:North Carolina Football vs TCU\nTV: ESPN\nStreaming Audio: https://thevarsitynetwork.com/audioapplink/source/oas-1323/content/unc:allaccess-Live-5663\nTickets: System.Threading.Tasks.Task`1[System.String]\n https://goheels.com/calendar.aspx?game_id=26876&amp;sport_id=3
 URL:https://goheels.com/calendar.aspx?game_id=26876&amp;sport_id=3
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
 UID:vcal_26877-goheels.com
-DTSTAMP:20260820T063649Z
+DTSTAMP:20260821T063822Z
 DTSTART:20260912T160000Z
 DTEND:20260912T190000Z
 LOCATION:Chapel Hill, Kenan Stadium
 SUMMARY:🟩 FB UNC vs East Tennessee State
 CATEGORIES:UNC-Yellow
-DESCRIPTION:North Carolina Football vs East Tennessee State\nTV: ACC Network\nTickets: System.Threading.Tasks.Task`1[System.String]\n https://goheels.com/calendar.aspx?game_id=26877&amp;sport_id=3
+DESCRIPTION:North Carolina Football vs East Tennessee State\nTV: ACC Network\nStreaming Audio: https://thevarsitynetwork.com/audioapplink/source/oas-1323/content/unc:allaccess-Live-5676\nTickets: System.Threading.Tasks.Task`1[System.String]\n https://goheels.com/calendar.aspx?game_id=26877&amp;sport_id=3
 URL:https://goheels.com/calendar.aspx?game_id=26877&amp;sport_id=3
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
 UID:vcal_26878-goheels.com
-DTSTAMP:20260820T063649Z
+DTSTAMP:20260821T063822Z
 DTSTART:20260919T160000Z
 DTEND:20260919T190000Z
 LOCATION:Clemson\, S.C. (Memorial Stadium)
 SUMMARY:🟩 FB UNC at Clemson
 CATEGORIES:UNC-Yellow
-DESCRIPTION:North Carolina Football at Clemson\nTV: ESPN\n https://goheels.com/calendar.aspx?game_id=26878&amp;sport_id=3
+DESCRIPTION:North Carolina Football at Clemson\nTV: ESPN\nStreaming Audio: https://thevarsitynetwork.com/audioapplink/source/oas-1323/content/unc:allaccess-Live-5677\n https://goheels.com/calendar.aspx?game_id=26878&amp;sport_id=3
 URL:https://goheels.com/calendar.aspx?game_id=26878&amp;sport_id=3
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
 UID:vcal_26884-goheels.com
-DTSTAMP:20260820T063649Z
+DTSTAMP:20260821T063822Z
 DTSTART:20261107T170000Z
 DTEND:20261107T200000Z
 LOCATION:East Hartford\, Conn. (Pratt & Whitney Stadium at Rentschler Field)
 SUMMARY:🟩 FB UNC at UConn
 CATEGORIES:UNC-Yellow
-DESCRIPTION:North Carolina Football at UConn\nTV: CBS Sports Network\n https://goheels.com/calendar.aspx?game_id=26884&amp;sport_id=3
+DESCRIPTION:North Carolina Football at UConn\nTV: CBS Sports Network\nStreaming Audio: https://thevarsitynetwork.com/audioapplink/source/oas-1323/content/unc:allaccess-Live-5683\n https://goheels.com/calendar.aspx?game_id=26884&amp;sport_id=3
 URL:https://goheels.com/calendar.aspx?game_id=26884&amp;sport_id=3
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
 UID:vcal_27112-goheels.com
-DTSTAMP:20260820T063107Z
+DTSTAMP:20260821T063256Z
 DTSTART:20261119T230000Z
 DTEND:20261120T010000Z
 LOCATION:Orlando\, Fla.
@@ -73,7 +73,7 @@ PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
 UID:vcal_27113-goheels.com
-DTSTAMP:20260820T063107Z
+DTSTAMP:20260821T063256Z
 DTSTART:20261121T220000Z
 DTEND:20261122T000000Z
 LOCATION:Orlando\, Fla.
@@ -85,7 +85,7 @@ PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
 UID:vcal_26928-goheels.com
-DTSTAMP:20260820T063649Z
+DTSTAMP:20260821T063822Z
 DTSTART:20261205T170000Z
 DTEND:20261205T200000Z
 LOCATION:Charlotte\, N.C. (Bank of America Stadium)
@@ -97,7 +97,7 @@ PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
 UID:vcal_27119-goheels.com
-DTSTAMP:20260820T063107Z
+DTSTAMP:20260821T063256Z
 DTSTART:20261209T160000Z
 DTEND:20261209T180000Z
 LOCATION:Chapel Hill\, N.C.
@@ -109,7 +109,7 @@ PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
 UID:vcal_26950-goheels.com
-DTSTAMP:20260820T063916Z
+DTSTAMP:20260821T064010Z
 DTSTART:20261219T193000Z
 DTEND:20261219T213000Z
 LOCATION:New York\, N.Y., Madison Square Garden
@@ -121,43 +121,55 @@ PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
 UID:vcal_26879-goheels.com
-DTSTAMP:20260820T063649Z
+DTSTAMP:20260821T063822Z
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
 LOCATION:Chapel Hill, Kenan Stadium
 SUMMARY:🟩 FB UNC vs Notre Dame
 CATEGORIES:UNC-Yellow
-DESCRIPTION:North Carolina Football vs Notre Dame\nTickets: System.Threading.Tasks.Task`1[System.String]\n https://goheels.com/calendar.aspx?game_id=26879&amp;sport_id=3
+DESCRIPTION:North Carolina Football vs Notre Dame\nStreaming Audio: https://thevarsitynetwork.com/audioapplink/source/oas-1323/content/unc:allaccess-Live-5678\nTickets: System.Threading.Tasks.Task`1[System.String]\n https://goheels.com/calendar.aspx?game_id=26879&amp;sport_id=3
 URL:https://goheels.com/calendar.aspx?game_id=26879&amp;sport_id=3
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
+UID:vcal_27170-goheels.com
+DTSTAMP:20260821T064010Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+LOCATION:Greensboro\, N.C., First Horizon Coliseum
+SUMMARY:🩵 MBB UNC vs Southern California (Preseason)
+CATEGORIES:UNC-Yellow
+DESCRIPTION:North Carolina Men's Basketball  Southern California (Preseason)\n https://goheels.com/calendar.aspx?game_id=27170&amp;sport_id=5
+URL:https://goheels.com/calendar.aspx?game_id=27170&amp;sport_id=5
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
 UID:vcal_26880-goheels.com
-DTSTAMP:20260820T063649Z
+DTSTAMP:20260821T063822Z
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261011
 LOCATION:Pittsburgh\, Pa. (Acrisure Stadium)
 SUMMARY:🟩 FB UNC at Pitt
 CATEGORIES:UNC-Yellow
-DESCRIPTION:North Carolina Football at Pitt\n https://goheels.com/calendar.aspx?game_id=26880&amp;sport_id=3
+DESCRIPTION:North Carolina Football at Pitt\nStreaming Audio: https://thevarsitynetwork.com/audioapplink/source/oas-1323/content/unc:allaccess-Live-5679\n https://goheels.com/calendar.aspx?game_id=26880&amp;sport_id=3
 URL:https://goheels.com/calendar.aspx?game_id=26880&amp;sport_id=3
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
 UID:vcal_26881-goheels.com
-DTSTAMP:20260820T063649Z
+DTSTAMP:20260821T063822Z
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
 LOCATION:Durham\, N.C. (Brooks Field at Wallace Wade Stadium)
 SUMMARY:🟩 FB UNC at Duke
 CATEGORIES:UNC-Yellow
-DESCRIPTION:North Carolina Football at Duke\n https://goheels.com/calendar.aspx?game_id=26881&amp;sport_id=3
+DESCRIPTION:North Carolina Football at Duke\nStreaming Audio: https://thevarsitynetwork.com/audioapplink/source/oas-1323/content/unc:allaccess-Live-5680\n https://goheels.com/calendar.aspx?game_id=26881&amp;sport_id=3
 URL:https://goheels.com/calendar.aspx?game_id=26881&amp;sport_id=3
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
 UID:vcal_26965-goheels.com
-DTSTAMP:20260820T063916Z
+DTSTAMP:20260821T064010Z
 DTSTART;VALUE=DATE:20261018
 DTEND;VALUE=DATE:20261019
 LOCATION:Indianapolis\, Ind., Gainbridge Fieldhouse
@@ -169,31 +181,55 @@ PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
 UID:vcal_26882-goheels.com
-DTSTAMP:20260820T063649Z
+DTSTAMP:20260821T063822Z
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261025
 LOCATION:Chapel Hill, Kenan Stadium
 SUMMARY:🟩 FB UNC vs Syracuse- Family  Day
 CATEGORIES:UNC-Yellow
-DESCRIPTION:North Carolina Football vs Syracuse- Family Football Day\nTickets: System.Threading.Tasks.Task`1[System.String]\n https://goheels.com/calendar.aspx?game_id=26882&amp;sport_id=3
+DESCRIPTION:North Carolina Football vs Syracuse- Family Football Day\nStreaming Audio: https://thevarsitynetwork.com/audioapplink/source/oas-1323/content/unc:allaccess-Live-5681\nTickets: System.Threading.Tasks.Task`1[System.String]\n https://goheels.com/calendar.aspx?game_id=26882&amp;sport_id=3
 URL:https://goheels.com/calendar.aspx?game_id=26882&amp;sport_id=3
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
+UID:vcal_27171-goheels.com
+DTSTAMP:20260821T064010Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+LOCATION:Chapel Hill, Smith Center
+SUMMARY:🩵 MBB UNC vs Charlotte (Preseason)
+CATEGORIES:UNC-Yellow
+DESCRIPTION:North Carolina Men's Basketball  Charlotte (Preseason)\n https://goheels.com/calendar.aspx?game_id=27171&amp;sport_id=5
+URL:https://goheels.com/calendar.aspx?game_id=27171&amp;sport_id=5
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
 UID:vcal_26883-goheels.com
-DTSTAMP:20260820T063649Z
+DTSTAMP:20260821T063822Z
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
 LOCATION:Chapel Hill, Kenan Stadium
 SUMMARY:🟩 FB UNC vs Miami- Rams Club Day
 CATEGORIES:UNC-Yellow
-DESCRIPTION:North Carolina Football vs Miami- Rams Club Day\nTickets: System.Threading.Tasks.Task`1[System.String]\n https://goheels.com/calendar.aspx?game_id=26883&amp;sport_id=3
+DESCRIPTION:North Carolina Football vs Miami- Rams Club Day\nStreaming Audio: https://thevarsitynetwork.com/audioapplink/source/oas-1323/content/unc:allaccess-Live-5682\nTickets: System.Threading.Tasks.Task`1[System.String]\n https://goheels.com/calendar.aspx?game_id=26883&amp;sport_id=3
 URL:https://goheels.com/calendar.aspx?game_id=26883&amp;sport_id=3
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
+UID:vcal_27172-goheels.com
+DTSTAMP:20260821T064010Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+LOCATION:Chapel Hill, Smith Center
+SUMMARY:🩵 MBB UNC vs Western Carolina
+CATEGORIES:UNC-Yellow
+DESCRIPTION:North Carolina Men's Basketball  Western Carolina\n https://goheels.com/calendar.aspx?game_id=27172&amp;sport_id=5
+URL:https://goheels.com/calendar.aspx?game_id=27172&amp;sport_id=5
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
 UID:vcal_27108-goheels.com
-DTSTAMP:20260820T063107Z
+DTSTAMP:20260821T063256Z
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261103
 LOCATION:Paris\, France
@@ -204,8 +240,20 @@ URL:https://goheels.com/calendar.aspx?game_id=27108&amp;sport_id=15
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
+UID:vcal_27173-goheels.com
+DTSTAMP:20260821T064010Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+LOCATION:Chapel Hill, Smith Center
+SUMMARY:🩵 MBB UNC vs Wofford
+CATEGORIES:UNC-Yellow
+DESCRIPTION:North Carolina Men's Basketball  Wofford\n https://goheels.com/calendar.aspx?game_id=27173&amp;sport_id=5
+URL:https://goheels.com/calendar.aspx?game_id=27173&amp;sport_id=5
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
 UID:vcal_27109-goheels.com
-DTSTAMP:20260820T063107Z
+DTSTAMP:20260821T063256Z
 DTSTART;VALUE=DATE:20261108
 DTEND;VALUE=DATE:20261109
 LOCATION:Charlotte\, N.C.
@@ -216,8 +264,20 @@ URL:https://goheels.com/calendar.aspx?game_id=27109&amp;sport_id=15
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
+UID:vcal_27174-goheels.com
+DTSTAMP:20260821T064010Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+LOCATION:Chapel Hill, Smith Center
+SUMMARY:🩵 MBB UNC vs Wyoming
+CATEGORIES:UNC-Yellow
+DESCRIPTION:North Carolina Men's Basketball  Wyoming\n https://goheels.com/calendar.aspx?game_id=27174&amp;sport_id=5
+URL:https://goheels.com/calendar.aspx?game_id=27174&amp;sport_id=5
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
 UID:vcal_27110-goheels.com
-DTSTAMP:20260820T063107Z
+DTSTAMP:20260821T063256Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
 LOCATION:Chapel Hill\, N.C.
@@ -229,7 +289,7 @@ PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
 UID:vcal_27123-goheels.com
-DTSTAMP:20260820T063916Z
+DTSTAMP:20260821T064010Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 LOCATION:Chapel Hill, Smith Center
@@ -241,19 +301,19 @@ PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
 UID:vcal_26885-goheels.com
-DTSTAMP:20260820T063649Z
+DTSTAMP:20260821T063822Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
 LOCATION:Chapel Hill, Kenan Stadium
 SUMMARY:🟩 FB UNC vs Louisville- Homecoming, Military Appreciation and Monogram Day
 CATEGORIES:UNC-Yellow
-DESCRIPTION:North Carolina Football vs Louisville- Homecoming, Military Appreciation and Monogram Day\nTickets: System.Threading.Tasks.Task`1[System.String]\n https://goheels.com/calendar.aspx?game_id=26885&amp;sport_id=3
+DESCRIPTION:North Carolina Football vs Louisville- Homecoming, Military Appreciation and Monogram Day\nStreaming Audio: https://thevarsitynetwork.com/audioapplink/source/oas-1323/content/unc:allaccess-Live-5684\nTickets: System.Threading.Tasks.Task`1[System.String]\n https://goheels.com/calendar.aspx?game_id=26885&amp;sport_id=3
 URL:https://goheels.com/calendar.aspx?game_id=26885&amp;sport_id=3
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
 UID:vcal_27111-goheels.com
-DTSTAMP:20260820T063107Z
+DTSTAMP:20260821T063256Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
 LOCATION:Philadelphia\, Pa.
@@ -265,7 +325,7 @@ PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
 UID:vcal_26991-goheels.com
-DTSTAMP:20260820T063916Z
+DTSTAMP:20260821T064010Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 LOCATION:Chapel Hill, Smith Center
@@ -277,19 +337,31 @@ PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
 UID:vcal_26886-goheels.com
-DTSTAMP:20260820T063649Z
+DTSTAMP:20260821T063822Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 LOCATION:Charlottesville\, Va. (Scott Stadium)
 SUMMARY:🟩 FB UNC at Virginia
 CATEGORIES:UNC-Yellow
-DESCRIPTION:North Carolina Football at Virginia\n https://goheels.com/calendar.aspx?game_id=26886&amp;sport_id=3
+DESCRIPTION:North Carolina Football at Virginia\nStreaming Audio: https://thevarsitynetwork.com/audioapplink/source/oas-1323/content/unc:allaccess-Live-5685\n https://goheels.com/calendar.aspx?game_id=26886&amp;sport_id=3
 URL:https://goheels.com/calendar.aspx?game_id=26886&amp;sport_id=3
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
+UID:vcal_27175-goheels.com
+DTSTAMP:20260821T064010Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+LOCATION:Chapel Hill, Smith Center
+SUMMARY:🩵 MBB UNC vs Monmouth
+CATEGORIES:UNC-Yellow
+DESCRIPTION:North Carolina Men's Basketball  Monmouth\n https://goheels.com/calendar.aspx?game_id=27175&amp;sport_id=5
+URL:https://goheels.com/calendar.aspx?game_id=27175&amp;sport_id=5
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
 UID:vcal_27114-goheels.com
-DTSTAMP:20260820T063107Z
+DTSTAMP:20260821T063256Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
 LOCATION:Chapel Hill\, N.C.
@@ -301,7 +373,7 @@ PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
 UID:vcal_27122-goheels.com
-DTSTAMP:20260820T063916Z
+DTSTAMP:20260821T064010Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 LOCATION:Charlotte\, N.C., Spectrum Center
@@ -313,7 +385,7 @@ PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
 UID:vcal_27115-goheels.com
-DTSTAMP:20260820T063107Z
+DTSTAMP:20260821T063256Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 LOCATION:Chapel Hill\, N.C.
@@ -325,19 +397,19 @@ PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
 UID:vcal_26887-goheels.com
-DTSTAMP:20260820T063649Z
+DTSTAMP:20260821T063822Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 LOCATION:Chapel Hill, Kenan Stadium
 SUMMARY:🟩 FB UNC vs NC State- Senior Day
 CATEGORIES:UNC-Yellow
-DESCRIPTION:North Carolina Football vs NC State- Senior Day\nTickets: System.Threading.Tasks.Task`1[System.String]\n https://goheels.com/calendar.aspx?game_id=26887&amp;sport_id=3
+DESCRIPTION:North Carolina Football vs NC State- Senior Day\nStreaming Audio: https://thevarsitynetwork.com/audioapplink/source/oas-1323/content/unc:allaccess-Live-5686\nTickets: System.Threading.Tasks.Task`1[System.String]\n https://goheels.com/calendar.aspx?game_id=26887&amp;sport_id=3
 URL:https://goheels.com/calendar.aspx?game_id=26887&amp;sport_id=3
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
 UID:vcal_27116-goheels.com
-DTSTAMP:20260820T063107Z
+DTSTAMP:20260821T063256Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 LOCATION:Chapel Hill\, N.C.
@@ -349,7 +421,7 @@ PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
 UID:vcal_26958-goheels.com
-DTSTAMP:20260820T063916Z
+DTSTAMP:20260821T064010Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 LOCATION:Chapel Hill, Smith Center
@@ -361,7 +433,7 @@ PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
 UID:vcal_27117-goheels.com
-DTSTAMP:20260820T063107Z
+DTSTAMP:20260821T063256Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 LOCATION:Chapel Hill\, N.C.
@@ -373,7 +445,7 @@ PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
 UID:vcal_26992-goheels.com
-DTSTAMP:20260820T063916Z
+DTSTAMP:20260821T064010Z
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
 LOCATION:Chapel Hill, Smith Center
@@ -385,7 +457,7 @@ PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
 UID:vcal_27121-goheels.com
-DTSTAMP:20260820T063107Z
+DTSTAMP:20260821T063256Z
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
 LOCATION:Chapel Hill\, N.C.
@@ -397,7 +469,7 @@ PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
 UID:vcal_26970-goheels.com
-DTSTAMP:20260820T063916Z
+DTSTAMP:20260821T064010Z
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
 LOCATION:Washington\, DC, Capital One Arena
@@ -409,7 +481,7 @@ PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
 UID:vcal_27169-goheels.com
-DTSTAMP:20260820T063916Z
+DTSTAMP:20260821T064010Z
 DTSTART;VALUE=DATE:20261215
 DTEND;VALUE=DATE:20261216
 LOCATION:Greensboro\, N.C., First Horizon Coliseum
@@ -420,8 +492,20 @@ URL:https://goheels.com/calendar.aspx?game_id=27169&amp;sport_id=5
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
+UID:vcal_27176-goheels.com
+DTSTAMP:20260821T064010Z
+DTSTART;VALUE=DATE:20261221
+DTEND;VALUE=DATE:20261222
+LOCATION:Chapel Hill, Smith Center
+SUMMARY:🩵 MBB UNC vs The Citadel
+CATEGORIES:UNC-Yellow
+DESCRIPTION:North Carolina Men's Basketball  The Citadel\n https://goheels.com/calendar.aspx?game_id=27176&amp;sport_id=5
+URL:https://goheels.com/calendar.aspx?game_id=27176&amp;sport_id=5
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
 UID:vcal_27118-goheels.com
-DTSTAMP:20260820T063107Z
+DTSTAMP:20260821T063256Z
 DTSTART;VALUE=DATE:20261221
 DTEND;VALUE=DATE:20261222
 LOCATION:Chapel Hill\, N.C.
@@ -433,7 +517,7 @@ PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
 UID:vcal_27120-goheels.com
-DTSTAMP:20260820T063107Z
+DTSTAMP:20260821T063256Z
 DTSTART;VALUE=DATE:20261228
 DTEND;VALUE=DATE:20261229
 LOCATION:Chapel Hill\, N.C.
@@ -445,7 +529,7 @@ PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
 UID:vcal_26969-goheels.com
-DTSTAMP:20260820T063916Z
+DTSTAMP:20260821T064010Z
 DTSTART;VALUE=DATE:20270130
 DTEND;VALUE=DATE:20270131
 LOCATION:Nashville\, Tenn., Bridgestone Arena
